@@ -1,4 +1,4 @@
-# Clustering Frankenstein
+# Colonizing Franky
 
 Tutorial in R to create images of Frankenstein from [this picture](https://fronkonstin.com/wp-content/uploads/2018/04/frankenstein.jpg) using colonization algorithm. Example:
 
